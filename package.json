@@ -1,0 +1,22 @@
+{
+  "name": "yuki",
+  "version": "0.0.0",
+  "description": "download and manage torrents with yuki",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksahli/yuki.git"
+  },
+  "keywords": [
+    "torrent"
+  ],
+  "author": "aksahli",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aksahli/yuki/issues"
+  },
+  "homepage": "https://github.com/aksahli/yuki#readme"
+}
